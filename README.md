@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aarya07 "LEARNER✨✨"
-- 👀 I’m interested in web devlopement
+- 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning html,css,javascript,c++
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me 
